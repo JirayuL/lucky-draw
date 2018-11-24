@@ -1,0 +1,20 @@
+button{
+    font-size: 35px;
+    padding: 2%;
+    border-radius: 20px;
+    font-family: 'Mitr', sans-serif;
+    background:#cc5693;
+    color: white;
+}
+h1{
+    font-family: 'Mitr', sans-serif;
+    font-size: 200px;
+}
+body {
+    background-image: url("logo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-size: 30%;
+    background-position: 10% 170%; 
+ }
